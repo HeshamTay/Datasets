@@ -1,1 +1,1 @@
-plotly==50.20.0
+plotly
